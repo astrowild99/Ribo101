@@ -1,0 +1,8 @@
+.START LDA .CARATTERE
+       LCD
+       LCM .X .Y .CARATTERE
+       HLT
+.CARATTERE 'A'
+.X 12
+.Y 11
+

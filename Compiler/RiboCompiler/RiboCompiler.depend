@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1528630190 source:/home/donato/Desktop/RiboCompiler/RiboCompiler/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+
+1528645664 source:/home/donato/Desktop/RiboCompiler/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+
+1530531127 source:/home/donato/Documents/RiboCompiler/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+
+1530805880 source:/home/donato/Documents/Ribo101/Compiler/RiboCompiler/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+

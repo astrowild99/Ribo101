@@ -1,0 +1,9 @@
+;printing a string by using a int in string.h
+.START      INT .LCDINIT
+            LDA .LENGTH
+            LDB .DATA
+            INT .LCDPRINT
+            HLT
+.LENGTH     12
+.DATA       "Hello World"
+            

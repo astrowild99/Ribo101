@@ -1,0 +1,5 @@
+#string.h
+LDN 3
+INT .INTTOCHAR
+OUT
+HLT

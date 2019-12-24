@@ -1,0 +1,14 @@
+
+
+
+
+
+.build/nano328-bb502ab1/src/sketch.cpp : src/sketch.ino
+	@mkdir -p .build/nano328-bb502ab1/src
+	@echo [93msrc/sketch.ino[0m
+	@/usr/local/bin/ino preproc -d /home/donato/Documents/Ribo101/Compiler/MotherBoard/ -o $@ $^
+
+
+all : .build/nano328-bb502ab1/src/sketch.cpp
+	@true
+

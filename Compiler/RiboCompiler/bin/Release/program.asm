@@ -1,0 +1,6 @@
+LDA .UNO
+ADD .DUE
+OUT
+.UNO 12
+.DUE 23
+.TRE "A" 
