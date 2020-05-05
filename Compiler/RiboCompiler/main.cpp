@@ -54,9 +54,9 @@
 #define ERROR_FILE_OVERFLOW 0xFB
 #define ERROR_NO_COMMAND 0xFA
 
-#define INO_PATH "/home/donato/Documents/Ribo101/Compiler/MotherBoard/src/sketch.ino"
-#define TMP_PATH "/home/donato/Documents/Ribo101/Compiler/MotherBoard/src/sketch.ino.tmp"
-#define SCRIPT_PATH "/home/donato/Documents/Ribo101/Compiler/MotherBoard/BuildAndSend.sh"
+#define INO_PATH "~/Ribo101/Compiler/MotherBoard/src/sketch.ino"
+#define TMP_PATH "~/Ribo101/Compiler/MotherBoard/src/sketch.ino.tmp"
+#define SCRIPT_PATH "~/Ribo101/Compiler/MotherBoard/BuildAndSend.sh"
 #define PROGRAM_OFFSET_INO 35
 
 using namespace std;
